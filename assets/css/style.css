@@ -1,12 +1,13 @@
 /*   
-Template Name: Unify - Responsive Bootstrap Template
-Description: Business, Corporate, Portfolio and Blog Theme.
-Version: 1.2
-Author: Html Stream
-Website: http://htmlstream.com/preview/unify
+Template Name: Innoeye by Ashwin
+Description: Innoeye Technologies, Indore
+Version: 0.1
+Author: Ashwin
+Website: http://www.innoeye.com
 */
 
 /*Import Google Fonts*/
+
 @import url(http://fonts.googleapis.com/css?family=Monda:400,700);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
@@ -33,6 +34,7 @@ a:hover,
 a:active {
    outline:0 !important;
 }
+
 a:hover {
 	color:#72c02c;
 	text-decoration:underline;
