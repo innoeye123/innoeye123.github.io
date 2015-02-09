@@ -1857,3 +1857,9 @@ i.style-switcher-btn-option:hover {
 	padding: 7px;
 	text-shadow: none !important;
 }
+
+/* General Styles */
+
+.justifiedText {
+	text-align: justify;
+}
